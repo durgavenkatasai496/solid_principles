@@ -26,8 +26,6 @@ import com.example.solidprinciples.ui.theme.SOLIDPrinciplesTheme
  * I - Interface Segregation Principle
  * D - Dependency Inversion Principle
  *
- *
- *
  */
 
 class MainActivity : ComponentActivity() {
